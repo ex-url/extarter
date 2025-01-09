@@ -24,16 +24,6 @@
 </div>
 
 <style>
-	@font-face {
-		font-family: 'Nunito';
-		src:
-			url('/fonts/nunito/Nunito-Light.ttf') format('ttf'),
-			url('/fonts/nunito/Nunito-Regular.ttf') format('ttf'),
-			url('/fonts/nunito/Nunito-Bold.ttf') format('ttf');
-		font-weight: 400;
-		font-style: normal;
-		font-display: swap;
-	}
 	:global(html.dark) {
 		background-color: #000;
 	}
